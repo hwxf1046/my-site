@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hwxf1046.github.io/my-site/sitemap.xml
